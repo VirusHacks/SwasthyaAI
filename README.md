@@ -110,13 +110,7 @@ Swasthya Sentinel is designed for hospitals worldwide:
 - Works with limited connectivity
 - Scalable from small clinics to large hospital networks
 
-## 📞 Contact & Support
 
-- **Website**: [swasthyasentinel.com](https://swasthyasentinel.com)
-- **Email**: hello@swasthyasentinel.com
-- **Support**: support@swasthyasentinel.com
-
----
 
 **Swasthya Sentinel: Predict. Prepare. Protect.**
 
